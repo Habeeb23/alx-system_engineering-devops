@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
->>>>>>> 80fd4f715dc42e7c80851afb3a5933779e56e46a
+mkdir /tmp/my_first_directory
