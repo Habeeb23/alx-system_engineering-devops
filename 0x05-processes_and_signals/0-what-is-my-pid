@@ -1,1 +1,3 @@
-0x05-processes_and_signals
+#!/usr/bin/env bash
+#Bash script that prints the PID
+echo $$
